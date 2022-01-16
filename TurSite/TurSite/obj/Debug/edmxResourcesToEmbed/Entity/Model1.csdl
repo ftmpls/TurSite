@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="admindataModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="TServices">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Byte" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ResimYolu" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Ulke" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Adres" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="ZamanDilimi" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Fiyat" Type="Int32" />
+  </EntityType>
+  <EntityContainer Name="admindataEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="TServices" EntityType="Self.TServices" />
+    <EntitySet Name="tbladmin" EntityType="admindataModel.tbladmin" />
+  </EntityContainer>
+  <EntityType Name="tbladmin">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="kullanici" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="sifre" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+</Schema>

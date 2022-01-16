@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="admindataModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="tbladmin">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="kullanici" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="sifre" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TServices">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="tinyint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ResimYolu" Type="varchar" MaxLength="100" />
+    <Property Name="Ulke" Type="varchar" MaxLength="50" />
+    <Property Name="Adres" Type="varchar" MaxLength="100" />
+    <Property Name="ZamanDilimi" Type="varchar" MaxLength="50" />
+    <Property Name="Fiyat" Type="int" />
+  </EntityType>
+  <EntityContainer Name="admindataModelStoreContainer">
+    <EntitySet Name="tbladmin" EntityType="Self.tbladmin" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TServices" EntityType="Self.TServices" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

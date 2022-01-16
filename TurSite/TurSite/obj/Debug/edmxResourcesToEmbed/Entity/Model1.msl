@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="admindataModelStoreContainer" CdmEntityContainer="admindataEntities">
+    <EntitySetMapping Name="TServices">
+      <EntityTypeMapping TypeName="admindataModel.TServices">
+        <MappingFragment StoreEntitySet="TServices">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="ResimYolu" ColumnName="ResimYolu" />
+          <ScalarProperty Name="Ulke" ColumnName="Ulke" />
+          <ScalarProperty Name="Adres" ColumnName="Adres" />
+          <ScalarProperty Name="ZamanDilimi" ColumnName="ZamanDilimi" />
+          <ScalarProperty Name="Fiyat" ColumnName="Fiyat" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbladmin">
+      <EntityTypeMapping TypeName="admindataModel.tbladmin">
+        <MappingFragment StoreEntitySet="tbladmin">
+          <ScalarProperty Name="sifre" ColumnName="sifre" />
+          <ScalarProperty Name="kullanici" ColumnName="kullanici" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

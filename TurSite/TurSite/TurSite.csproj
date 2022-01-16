@@ -1,0 +1,332 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8453EBFD-4814-4623-8F54-8DB4258356C4}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TurSite</RootNamespace>
+    <AssemblyName>TurSite</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort>44300</IISExpressSSLPort>
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AdminPanel.aspx" />
+    <Content Include="Entity\Model1.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Model1.edmx</DependentUpon>
+      <LastGenOutput>Model1.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="Entity\Model1.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Model1.edmx</DependentUpon>
+      <LastGenOutput>Model1.cs</LastGenOutput>
+    </Content>
+    <Content Include="GirisYap.aspx" />
+    <Content Include="Iletisim.aspx" />
+    <Content Include="Resim\1.jpg" />
+    <Content Include="Resim\2.jpg" />
+    <Content Include="Resim\3.jpg" />
+    <Content Include="Resim\bg1.jpg" />
+    <Content Include="Resim\bg2.jpg" />
+    <Content Include="Resim\bg3.jpg" />
+    <Content Include="Resim\bg4.jpg" />
+    <Content Include="Resim\g1.jpg" />
+    <Content Include="Resim\g2.jpg" />
+    <Content Include="Resim\g3.jpg" />
+    <Content Include="Resim\g4.jpg" />
+    <Content Include="Resim\g5.jpg" />
+    <Content Include="Resim\g6.jpg" />
+    <Content Include="Resim\g7.jpg" />
+    <Content Include="Resim\g8.jpg" />
+    <Content Include="Resim\g9.jpg" />
+    <Content Include="Resim\move-top.png" />
+    <Content Include="Resim\t1.jpg" />
+    <Content Include="Resim\t2.jpg" />
+    <Content Include="Resim\t3.jpg" />
+    <Content Include="Resim\t4.jpg" />
+    <Content Include="Resim\te1.jpg" />
+    <Content Include="Resim\te2.jpg" />
+    <Content Include="Resim\te3.jpg" />
+    <Content Include="Resim\te4.jpg" />
+    <Content Include="Services.aspx" />
+    <Content Include="ServisGuncelle.aspx" />
+    <Content Include="ServisSil.aspx" />
+    <Content Include="Site.aspx" />
+    <Content Include="Web.config" />
+    <Content Include="web\about.html" />
+    <Content Include="web\contact.html" />
+    <Content Include="web\css\bootstrap.css" />
+    <Content Include="web\css\fontawesome-all.min.css" />
+    <Content Include="web\css\menufullpage.css" />
+    <Content Include="web\css\owl.carousel.css" />
+    <Content Include="web\css\smoothbox.css" />
+    <Content Include="web\css\style.css" />
+    <Content Include="web\css\style2.css" />
+    <Content Include="web\gallery.html" />
+    <Content Include="web\images\1.jpg" />
+    <Content Include="web\images\2.jpg" />
+    <Content Include="web\images\3.jpg" />
+    <Content Include="web\images\bg1.jpg" />
+    <Content Include="web\images\bg2.jpg" />
+    <Content Include="web\images\bg3.jpg" />
+    <Content Include="web\images\bg4.jpg" />
+    <Content Include="web\images\g1.jpg" />
+    <Content Include="web\images\g2.jpg" />
+    <Content Include="web\images\g3.jpg" />
+    <Content Include="web\images\g4.jpg" />
+    <Content Include="web\images\g5.jpg" />
+    <Content Include="web\images\g6.jpg" />
+    <Content Include="web\images\g7.jpg" />
+    <Content Include="web\images\g8.jpg" />
+    <Content Include="web\images\g9.jpg" />
+    <Content Include="web\images\move-top.png" />
+    <Content Include="web\images\t1.jpg" />
+    <Content Include="web\images\t2.jpg" />
+    <Content Include="web\images\t3.jpg" />
+    <Content Include="web\images\t4.jpg" />
+    <Content Include="web\images\te1.jpg" />
+    <Content Include="web\images\te2.jpg" />
+    <Content Include="web\images\te3.jpg" />
+    <Content Include="web\images\te4.jpg" />
+    <Content Include="web\index.html" />
+    <Content Include="web\js\bootstrap.js" />
+    <Content Include="web\js\easing.js" />
+    <Content Include="web\js\expert.js" />
+    <Content Include="web\js\form-validation.js" />
+    <Content Include="web\js\jquery-2.2.3.min.js" />
+    <Content Include="web\js\menuFullpage.min.js" />
+    <Content Include="web\js\move-top.js" />
+    <Content Include="web\js\owl.carousel.js" />
+    <Content Include="web\js\smoothbox.jquery2.js" />
+    <Content Include="web\js\SmoothScroll.min.js" />
+    <Content Include="web\services.html" />
+    <Content Include="web\typo.html" />
+    <Content Include="web\w3layouts-License.txt" />
+    <Content Include="YeniServisEkle.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminPanel.aspx.cs">
+      <DependentUpon>AdminPanel.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdminPanel.aspx.designer.cs">
+      <DependentUpon>AdminPanel.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AnaSayfa.Master.cs">
+      <DependentUpon>AnaSayfa.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AnaSayfa.Master.designer.cs">
+      <DependentUpon>AnaSayfa.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Entity\Baglanti.cs" />
+    <Compile Include="Entity\Model1.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model1.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Entity\Model1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Entity\Model1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model1.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Entity\tbladmin.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Entity\TServices.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="GirisYap.aspx.cs">
+      <DependentUpon>GirisYap.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GirisYap.aspx.designer.cs">
+      <DependentUpon>GirisYap.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Iletisim.aspx.cs">
+      <DependentUpon>Iletisim.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Iletisim.aspx.designer.cs">
+      <DependentUpon>Iletisim.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services.aspx.cs">
+      <DependentUpon>Services.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Services.aspx.designer.cs">
+      <DependentUpon>Services.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ServisGuncelle.aspx.cs">
+      <DependentUpon>ServisGuncelle.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ServisGuncelle.aspx.designer.cs">
+      <DependentUpon>ServisGuncelle.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ServisSil.aspx.cs">
+      <DependentUpon>ServisSil.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ServisSil.aspx.designer.cs">
+      <DependentUpon>ServisSil.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Site.aspx.cs">
+      <DependentUpon>Site.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site.aspx.designer.cs">
+      <DependentUpon>Site.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="YeniServisEkle.aspx.cs">
+      <DependentUpon>YeniServisEkle.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="YeniServisEkle.aspx.designer.cs">
+      <DependentUpon>YeniServisEkle.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AnaSayfa.Master" />
+    <EntityDeploy Include="Entity\Model1.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Model1.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <Content Include="Entity\Model1.edmx.diagram">
+      <DependentUpon>Model1.edmx</DependentUpon>
+    </Content>
+    <None Include="packages.config" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <Content Include="web\webfonts\fa-brands-400.woff" />
+    <Content Include="web\webfonts\fa-brands-400.woff2" />
+    <Content Include="web\webfonts\fa-regular-400.eot" />
+    <Content Include="web\webfonts\fa-regular-400.ttf" />
+    <Content Include="web\webfonts\fa-regular-400.woff" />
+    <Content Include="web\webfonts\fa-regular-400.woff2" />
+    <Content Include="web\webfonts\fa-solid-900.eot" />
+    <Content Include="web\webfonts\fa-solid-900.ttf" />
+    <Content Include="web\webfonts\fa-solid-900.woff" />
+    <Content Include="web\webfonts\fa-solid-900.woff2" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>57707</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>https://localhost:44300/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Bu proje bu bilgisayarda olmayan NuGet paketlerine başvuru yapıyor. Bunları indirmek için NuGet Paket Geri Yükleme'yi kullanın. Daha fazla bilgi için, bkz. http://go.microsoft.com/fwlink/?LinkID=322105. Eksik dosya: {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

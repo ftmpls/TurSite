@@ -1,0 +1,252 @@
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\TurSite.dll.config
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\TurSite.dll
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\TurSite.pdb
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\csc.exe
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\csc.exe.config
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\csc.rsp
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\csi.exe
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\csi.exe.config
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\csi.rsp
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\System.AppContext.dll
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\System.Console.dll
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\System.IO.Compression.dll
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\System.Net.Http.dll
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\System.ValueTuple.dll
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\vbc.exe
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\vbc.exe.config
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\vbc.rsp
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\VBCSCompiler.exe
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\EntityFramework.dll
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\EntityFramework.SqlServer.dll
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\EntityFramework.xml
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\EntityFramework.SqlServer.xml
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\obj\Debug\TurSite.csproj.CoreCompileInputs.cache
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\obj\Debug\TurSite.csproj.CopyComplete
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\obj\Debug\TurSite.dll
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\obj\Debug\TurSite.pdb
+C:\Users\Geo\Desktop\Any Projects\BionlukSatis\TurSite\TurSite\obj\Debug\TurSite.csproj.AssemblyReference.cache
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\TurSite.dll.config
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\TurSite.dll
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\TurSite.pdb
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\csc.exe
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\csc.exe.config
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\csc.rsp
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\csi.exe
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\csi.exe.config
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\csi.rsp
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\System.AppContext.dll
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\System.Console.dll
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\System.IO.Compression.dll
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\System.Net.Http.dll
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\System.Net.Sockets.dll
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\System.ValueTuple.dll
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\System.Xml.XPath.dll
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\vbc.exe
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\vbc.exe.config
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\vbc.rsp
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\VBCSCompiler.exe
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\EntityFramework.dll
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\EntityFramework.SqlServer.dll
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\EntityFramework.xml
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\EntityFramework.SqlServer.xml
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\obj\Debug\TurSite.csproj.AssemblyReference.cache
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\obj\Debug\TurSite.csproj.CoreCompileInputs.cache
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\obj\Debug\TurSite.csproj.CopyComplete
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\obj\Debug\TurSite.dll
+C:\Users\fatmaunal\Desktop\TurSite\TurSite\obj\Debug\TurSite.pdb
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\TurSite.dll.config
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\TurSite.dll
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\TurSite.pdb
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\csc.exe
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\csc.exe.config
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\csc.rsp
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\csi.exe
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\csi.exe.config
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\csi.rsp
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\System.AppContext.dll
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\System.Console.dll
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\System.IO.Compression.dll
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\System.Net.Http.dll
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\System.Net.Sockets.dll
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\System.ValueTuple.dll
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\System.Xml.XPath.dll
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\vbc.exe
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\vbc.exe.config
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\vbc.rsp
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\VBCSCompiler.exe
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\EntityFramework.dll
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\EntityFramework.SqlServer.dll
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\EntityFramework.xml
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\EntityFramework.SqlServer.xml
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\obj\Debug\TurSite.csproj.AssemblyReference.cache
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\obj\Debug\TurSite.csproj.CoreCompileInputs.cache
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\obj\Debug\TurSite.csproj.CopyComplete
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\obj\Debug\TurSite.dll
+C:\Users\fatmaunal\Desktop\isletim\TurSite\TurSite\obj\Debug\TurSite.pdb
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\TurSite.dll.config
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\TurSite.dll
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\TurSite.pdb
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\csc.exe
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\csc.exe.config
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\csc.rsp
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\csi.exe
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\csi.exe.config
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\csi.rsp
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\System.AppContext.dll
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\System.Console.dll
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\System.IO.Compression.dll
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\System.Net.Http.dll
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\System.Net.Sockets.dll
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\System.ValueTuple.dll
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\System.Xml.XPath.dll
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\vbc.exe
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\vbc.exe.config
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\vbc.rsp
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\VBCSCompiler.exe
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\EntityFramework.dll
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\EntityFramework.SqlServer.dll
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\EntityFramework.xml
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\EntityFramework.SqlServer.xml
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\obj\Debug\TurSite.csproj.AssemblyReference.cache
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\obj\Debug\TurSite.csproj.CoreCompileInputs.cache
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\obj\Debug\TurSite.csproj.CopyComplete
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\obj\Debug\TurSite.dll
+C:\Users\fatmaunal\Desktop\tursite\TurSite\TurSite\obj\Debug\TurSite.pdb
